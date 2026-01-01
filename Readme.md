@@ -58,6 +58,8 @@ Output: [1,0]
 
 ## 🧩 Python Implementation
 
+## 🧩 Python Implementation
+
 ```python
 class Solution:
     def plusOne(self, digits):
@@ -70,28 +72,31 @@ class Solution:
             digits[i] = 0
         
         return [1] + digits
-⏱️ Complexity Analysis
 
-Time Complexity: O(n)
 
-Space Complexity: O(1) (excluding output)
+## ⏱️ Complexity Analysis
 
-✅ Constraints
+- **Time Complexity:** `O(n)`
+- **Space Complexity:** `O(1)` (excluding output)
 
-1 <= digits.length <= 100
+---
 
-0 <= digits[i] <= 9
+## ✅ Constraints
 
-No leading zeros
+- `1 <= digits.length <= 100`
+- `0 <= digits[i] <= 9`
+- No leading zeros
 
-📚 Reference
+---
 
-LeetCode Problem: 66. Plus One
+## 📚 Reference
 
-Difficulty: Easy
+- **LeetCode Problem:** 66. Plus One  
+- **Difficulty:** Easy  
+- **Topic:** Arrays
 
-Topic: Arrays
+---
 
-👤 Author
+## 👤 Author
 
-Gowtham GS Patil
+**Gowtham GS Patil**
