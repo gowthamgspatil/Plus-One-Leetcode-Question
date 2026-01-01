@@ -89,4 +89,5 @@ Output: [1,0]
 
 ## 📸 Problem & Solution Screenshot
 
-![Plus One LeetCode Solution](images/plus_one_solution.png)
+<img width="1364" height="628" alt="image" src="https://github.com/user-attachments/assets/f3b1eb63-9048-4a64-9b7b-756a9710bd3c" />
+
